@@ -1,1 +1,1 @@
-# knead, bake and serve web applications.
+# kneads, bakes and serves web applications.
